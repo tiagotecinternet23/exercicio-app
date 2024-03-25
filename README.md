@@ -36,7 +36,7 @@ O app deverá ter:
 **Desafios:**
 
 - Salvar o registro usando algum recurso de armazenamento local (async storage ou api-fake com json-server) ou remoto (Firebase)
-- Descobrir qual o nome da rua a partir da longitude e latitude (há APIs para isso, como por exemplo a: https://nominatim.openstreetmap.org/ui/reverse.html
+- Descobrir qual o nome da rua a partir da longitude e latitude (pesquise se há APIs para isso e se houver, tente implementar o código para esta finalidade)
 - Fazer o build do aplicativo gerando um arquivo executável APK (somente Android)
 
 Este aplicativo deverá combinar **pelo menos** os recursos nativos: `MapView` e `Location`.
